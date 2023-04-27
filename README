@@ -1,0 +1,6 @@
+To start an application
+```docker compose up```
+
+Routes to view:
+- http://127.0.0.1:8000/index1.html
+- http://127.0.0.1:8000/index2.html
